@@ -10,7 +10,6 @@ Me enfoco en el análisis de datos, el desarrollo de software y el diseño de in
 
 A nivel académico y personal, he desarrollado aplicaciones web, extensiones de navegador y herramientas orientadas a la visualización de datos y planificación. Fuera de la ingeniería, mi interés principal es el arte, lo que me ayuda a aplicar un enfoque más estructurado y visual al momento de diseñar proyectos.
 
----
 
 ### 🛠️ Stack Tecnológico
 
@@ -33,5 +32,14 @@ A nivel académico y personal, he desarrollado aplicaciones web, extensiones de 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+
+### 🚀 Proyectos Destacados
+
+*   **OptiPlan - Plataforma de Planificación Académica:** Rediseño de la interfaz del SGA Académico para optimizar la selección de materias y horarios. El proyecto incluyó la creación de prototipos de mediana y alta fidelidad, aplicando pruebas con usuarios y evaluaciones heurísticas.
+    * *Stack:* `UX/UI` `Prototipado de Alta Fidelidad` `Figma`
+    * 🖥️ [Ver Prototipo](https://www.figma.com/make/TzwNSHHcBf4aPReG5crB9B/Optiplan-Planificador?code-node-id=0-6&p=f&fullscreen=1)
+
+
 
 
