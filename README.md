@@ -46,3 +46,7 @@ A nivel académico y personal, he desarrollado aplicaciones web, extensiones de 
     * 🔗 [Ver Código Fuente](https://github.com/CCumba/parque_historico) | 🌐 [Ver Sitio Web](https://ccumba.github.io/parque_historico/)
 
 
+### 🔭 Explorando Actualmente
+
+*   **Machine Learning y Modelado Predictivo:** Estructuración de algoritmos aplicados al análisis de datos para encontrar patrones y predecir tendencias.
+*   **Visualización de Datos:** Diseño de interfaces para traducir conjuntos de datos complejos en narrativas visuales claras y accesibles.
