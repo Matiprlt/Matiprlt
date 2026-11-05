@@ -41,5 +41,8 @@ A nivel académico y personal, he desarrollado aplicaciones web, extensiones de 
     * 🖥️ [Ver Prototipo](https://www.figma.com/make/TzwNSHHcBf4aPReG5crB9B/Optiplan-Planificador?code-node-id=0-6&p=f&fullscreen=1)
 
 
+*   **Visita al Parque Histórico de Guayaquil:** Landing page responsiva desarrollada colaborativamente para documentar una investigación de campo real. El sitio procesa y visualiza de forma interactiva datos estadísticos y encuestas realizadas a los visitantes del parque.
+    * *Stack:* `HTML/CSS` `HTML5 UP` `GitHub Pages` `Análisis Estadístico`
+    * 🔗 [Ver Código Fuente](https://github.com/CCumba/parque_historico) | 🌐 [Ver Sitio Web](https://ccumba.github.io/parque_historico/)
 
 
