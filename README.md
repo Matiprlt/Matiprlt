@@ -50,3 +50,10 @@ A nivel académico y personal, he desarrollado aplicaciones web, extensiones de 
 
 *   **Machine Learning y Modelado Predictivo:** Estructuración de algoritmos aplicados al análisis de datos para encontrar patrones y predecir tendencias.
 *   **Visualización de Datos:** Diseño de interfaces para traducir conjuntos de datos complejos en narrativas visuales claras y accesibles.
+
+
+### 📫 Contacto e Idiomas
+
+*   **Inglés:** Nivel Avanzado
+*   **Email:** matperal@espol.edu.ec
+*   **LinkedIn:** [https://www.linkedin.com/in/matias-enrique-peralta-castillo-783470449/](https://www.linkedin.com/in/matias-enrique-peralta-castillo-783470449/)
